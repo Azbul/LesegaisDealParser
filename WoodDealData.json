@@ -1,0 +1,209 @@
+{
+    "data": {
+        "searchReportWoodDeal": {
+            "__typename": "PageReportWoodDeal",
+            "content": [{
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0083000000000000022301923400",
+                    "sellerInn": "022301923400",
+                    "sellerName": "ИП Чикунов Владимир Михайлович",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 8.929
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0084000000000000022301923400",
+                    "sellerInn": "022301923400",
+                    "sellerName": "ИП Чикунов Владимир Михайлович",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 28.1
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0028000000000000023602260075",
+                    "sellerInn": "023602260075",
+                    "sellerName": "ИП Фаттахов Фидан Зуфарович",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0711000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0712000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0713000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0714000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0715000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0716000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0717000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0718000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0719000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0720000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0721000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0722000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0723000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0724000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0725000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0726000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }, {
+                    "__typename": "ReportWoodDeal",
+                    "buyerInn": "",
+                    "buyerName": "Физическое лицо",
+                    "dealDate": "2022-07-18",
+                    "dealNumber": "0727000000000000000240804598",
+                    "sellerInn": "0240804598",
+                    "sellerName": "ГАУ РБ \"Салаватский лесхоз\"",
+                    "woodVolumeBuyer": 0.0,
+                    "woodVolumeSeller": 0.0
+                }
+            ]
+        }
+    }
+}
